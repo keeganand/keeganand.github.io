@@ -48,6 +48,8 @@ h1 { font-size: x-large; }
 
 h2 { font-size: large; }
 
+h3 { font-size: medium; }
+
 #past-courses-table { border-collapse: collapse; }
 #past-courses-table thead {
   background-color: #246BCE;
